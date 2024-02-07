@@ -12,5 +12,5 @@ This simple app will ensure that your development environment is properly setup.
 4. Run the run.cmd script.  
     4.1. On Windows, type **.\run.cmd**.    
     4.2. On macOS or Linux, type: **./run.cmd**.
-5. Open (http://localhost:8000)[https://localhost:8000] in your browser.
+5. Open [http://localhost:8000](https://localhost:8000) in your browser.
 
